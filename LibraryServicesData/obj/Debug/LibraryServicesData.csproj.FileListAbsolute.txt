@@ -1,0 +1,12 @@
+C:\Users\Fred\source\repos\LibraryServices\LibraryServicesData\bin\Debug\LibraryServicesData.dll
+C:\Users\Fred\source\repos\LibraryServices\LibraryServicesData\bin\Debug\LibraryServicesData.pdb
+C:\Users\Fred\source\repos\LibraryServices\LibraryServicesData\obj\Debug\LibraryServicesData.csproj.AssemblyReference.cache
+C:\Users\Fred\source\repos\LibraryServices\LibraryServicesData\obj\Debug\LibraryServicesData.csproj.CoreCompileInputs.cache
+C:\Users\Fred\source\repos\LibraryServices\LibraryServicesData\obj\Debug\LibraryServicesData.dll
+C:\Users\Fred\source\repos\LibraryServices\LibraryServicesData\obj\Debug\LibraryServicesData.pdb
+C:\Users\Fred\source\repos\LibraryServices\LibraryServicesData\bin\Debug\LibraryServicesData.dll.config
+C:\Users\Fred\source\repos\LibraryServices\LibraryServicesData\bin\Debug\EntityFramework.dll
+C:\Users\Fred\source\repos\LibraryServices\LibraryServicesData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fred\source\repos\LibraryServices\LibraryServicesData\bin\Debug\EntityFramework.xml
+C:\Users\Fred\source\repos\LibraryServices\LibraryServicesData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fred\source\repos\LibraryServices\LibraryServicesData\obj\Debug\LibraryServicesData.csproj.CopyComplete
