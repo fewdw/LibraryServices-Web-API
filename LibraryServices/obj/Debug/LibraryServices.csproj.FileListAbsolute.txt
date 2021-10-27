@@ -130,3 +130,4 @@ C:\Users\Fred\source\repos\LibraryServices\LibraryServices\bin\LibraryServicesDa
 C:\Users\Fred\source\repos\LibraryServices\LibraryServices\bin\System.Web.Cors.dll
 C:\Users\Fred\source\repos\LibraryServices\LibraryServices\bin\System.Web.Http.Cors.dll
 C:\Users\Fred\source\repos\LibraryServices\LibraryServices\bin\System.Web.Http.Cors.xml
+C:\Users\Fred\source\repos\LibraryServices\LibraryServices\bin\Swashbuckle.Core.dll
