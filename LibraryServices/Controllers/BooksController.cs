@@ -13,16 +13,11 @@ namespace LibraryServices.Controllers
     [EnableCors(origins:"*",headers:"*",methods:"*")]
     public class BooksController : ApiController
     {
-        //option 1
-        private IBookRepository books = new BookRepository();
-
-        //option 2 is better
-
-        //private IBookRepository books;
-        //public BookController(IBookRepository _book)
-        //{
-        //    this.books = _book;
-        //}
+        private IBookRepository books;
+        public BookController(IBookRepository _book)
+        {
+            this.books = _book;
+        }
 
         //GET api/books
         [HttpGet]
